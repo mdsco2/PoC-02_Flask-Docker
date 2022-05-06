@@ -9,7 +9,7 @@ https://www.digitalocean.com/community/tutorials/how-to-build-and-deploy-a-flask
 Depois extenda a aplicação Flask para que tenhas as seguintes funcionalidades:
 
 1. URL terminando em /hora
-   Retorna a hora do servidor
+   <br>Retorna a hora do servidor
 
 2. URL terminando em /soma
-   Recebe dois argumentos n1 e n2 e retorna a soma deles
+   <br>Recebe dois argumentos n1 e n2 e retorna a soma deles
